@@ -7,6 +7,42 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
+
+
+def send_telegram_alert(matches):
+    """Sends matched jobs directly to your Telegram."""
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID or not matches:
+        return
+
+    message = f"🏎️ <b>{len(matches)} New Motorsport Job(s) Found!</b>\n\n"
+    for m in matches:
+        sponsor_tag = "✅ <b>Eligible Sponsorship: YES</b>" if m.get("is_sponsor") else "❌ Sponsorship: No"
+        message += (
+            f"📌 <b><a href='{m['url']}'>{m['title']}</a></b>\n"
+            f"🏢 Company: <code>{m['company']}</code>\n"
+            f"🎯 Keywords: <code>{', '.join(m['keywords'])}</code>\n"
+            f"🛂 {sponsor_tag}\n\n"
+        )
+
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": message,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False,
+    }
+    try:
+        resp = requests.post(url, json=payload, timeout=10)
+        if resp.status_code == 200:
+            print("Telegram alert sent successfully!")
+        else:
+            print(f"Failed to send Telegram alert: {resp.text}")
+    except Exception as e:
+        print(f"Error sending Telegram alert: {e}")
+
+
 BASE_URL = "https://www.motorsportjobs.com"
 SEARCH_URL = f"{BASE_URL}/en/jobs"
 
