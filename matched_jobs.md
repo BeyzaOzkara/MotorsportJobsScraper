@@ -30,3 +30,7 @@
 - [Ada Software Engineer](https://www.motorsportjobs.com/en/job/ada-software-engineer-30) | Company: `Redish Motorsport Ltd` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-28 20:45
 - [Safety Critical Software Engineer](https://www.motorsportjobs.com/en/job/safety-critical-software-engineer-12) | Company: `Redish Motorsport Ltd` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-28 20:45
 - [Security Cleared Software Engineer](https://www.motorsportjobs.com/en/job/security-cleared-software-engineer-23) | Company: `Redish Motorsport Ltd` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-28 20:45
+- [Senior Software Engineer - (Permanent or Fixed-Term Contract)](https://www.motorsportjobs.com/en/job/senior-software-engineer-permanent-or-fixed-term-contract) | Company: `Czinger Vehicles` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-29 14:11
+- [Senior C Developer](https://www.motorsportjobs.com/en/job/senior-c-developer-55) | Company: `Czinger Vehicles` | Keywords: `developer` | Eligible Sponsorship: No | Found: 2026-08-29 14:11
+- [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-279) | Company: `Czinger Vehicles` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-29 14:12
+- [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-280) | Company: `Czinger Vehicles` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-29 14:12
