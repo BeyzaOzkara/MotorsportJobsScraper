@@ -34,3 +34,5 @@
 - [Senior C Developer](https://www.motorsportjobs.com/en/job/senior-c-developer-55) | Company: `Czinger Vehicles` | Keywords: `developer` | Eligible Sponsorship: No | Found: 2026-08-29 14:11
 - [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-279) | Company: `Czinger Vehicles` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-29 14:12
 - [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-280) | Company: `Czinger Vehicles` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-29 14:12
+- [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-281) | Company: `Czinger Vehicles` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-30 14:18
+- [Senior C Developer](https://www.motorsportjobs.com/en/job/senior-c-developer-56) | Company: `Czinger Vehicles` | Keywords: `developer` | Eligible Sponsorship: No | Found: 2026-08-30 14:18
