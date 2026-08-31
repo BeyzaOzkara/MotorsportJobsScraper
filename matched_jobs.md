@@ -36,3 +36,13 @@
 - [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-280) | Company: `Czinger Vehicles` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-29 14:12
 - [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-281) | Company: `Czinger Vehicles` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-30 14:18
 - [Senior C Developer](https://www.motorsportjobs.com/en/job/senior-c-developer-56) | Company: `Czinger Vehicles` | Keywords: `developer` | Eligible Sponsorship: No | Found: 2026-08-30 14:18
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-148) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-149) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-150) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-151) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-153) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-156) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-155) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-154) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-157) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-152) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
