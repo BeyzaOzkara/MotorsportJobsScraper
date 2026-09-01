@@ -46,3 +46,13 @@
 - [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-154) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
 - [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-157) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
 - [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-152) | Company: `GiroDisc Racing Brakes` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-08-31 16:44
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-166) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:57
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-158) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:57
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-162) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:57
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-164) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:57
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-163) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:57
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-165) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:57
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-159) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:57
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-160) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:57
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-161) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:58
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-167) | Company: `Pegasus Classic Engineering` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-01 13:58
