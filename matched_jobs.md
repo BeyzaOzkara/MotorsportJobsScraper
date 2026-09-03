@@ -64,3 +64,14 @@
 - [Senior Cyber Software Engineer/ Technical Lead](https://www.motorsportjobs.com/en/job/senior-cyber-software-engineer-technical-lead-50) | Company: `Fortescue Zero` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-02 13:21
 - [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-284) | Company: `Fortescue Zero` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-02 13:21
 - [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-282) | Company: `Fortescue Zero` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-02 13:23
+- [C Developer](https://www.motorsportjobs.com/en/job/c-developer-110) | Company: `VENTURE ENGINEERING` | Keywords: `developer` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:18
+- [Ada Software Engineer](https://www.motorsportjobs.com/en/job/ada-software-engineer-32) | Company: `VENTURE ENGINEERING` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:18
+- [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-285) | Company: `VENTURE ENGINEERING` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:18
+- [Senior C Developer](https://www.motorsportjobs.com/en/job/senior-c-developer-59) | Company: `VENTURE ENGINEERING` | Keywords: `developer` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:18
+- [Software Engineer](https://www.motorsportjobs.com/en/job/software-engineer-1304) | Company: `VENTURE ENGINEERING` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:18
+- [Senior C Developer](https://www.motorsportjobs.com/en/job/senior-c-developer-58) | Company: `VENTURE ENGINEERING` | Keywords: `developer` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:19
+- [Senior C Developer](https://www.motorsportjobs.com/en/job/senior-c-developer-57) | Company: `VENTURE ENGINEERING` | Keywords: `developer` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:19
+- [Safety Critical Software Engineer](https://www.motorsportjobs.com/en/job/safety-critical-software-engineer-14) | Company: `VENTURE ENGINEERING` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:19
+- [FPGA Developer](https://www.motorsportjobs.com/en/job/fpga-developer-26) | Company: `VENTURE ENGINEERING` | Keywords: `developer` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:19
+- [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-283) | Company: `VENTURE ENGINEERING` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:19
+- [Safety Critical Software Engineer](https://www.motorsportjobs.com/en/job/safety-critical-software-engineer-13) | Company: `VENTURE ENGINEERING` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-03 13:19
