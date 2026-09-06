@@ -108,3 +108,24 @@
 - [Senior Principal Software Engineer](https://www.motorsportjobs.com/en/job/senior-principal-software-engineer-16) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-05 12:24
 - [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-288) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-05 12:24
 - [Senior Software Engineer](https://www.motorsportjobs.com/en/job/senior-software-engineer-783) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-05 12:25
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-192) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:40
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-190) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:40
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-189) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:40
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-188) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:40
+- [C Developer](https://www.motorsportjobs.com/en/job/c-developer-112) | Company: `Motion Applied` | Keywords: `developer` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-195) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Software Engineer](https://www.motorsportjobs.com/en/job/software-engineer-1307) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-197) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Senior Software Engineer](https://www.motorsportjobs.com/en/job/senior-software-engineer-787) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-193) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Rust Software Engineer](https://www.motorsportjobs.com/en/job/rust-software-engineer) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Senior Software Engineer](https://www.motorsportjobs.com/en/job/senior-software-engineer-788) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-196) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-194) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:41
+- [Senior Principal Software Engineer](https://www.motorsportjobs.com/en/job/senior-principal-software-engineer-18) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-191) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
+- [C Developer](https://www.motorsportjobs.com/en/job/c-developer-111) | Company: `Motion Applied` | Keywords: `developer` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
+- [Senior Principal Software Engineer](https://www.motorsportjobs.com/en/job/senior-principal-software-engineer-17) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
+- [Senior Cyber Software Engineer Technical Lead](https://www.motorsportjobs.com/en/job/senior-cyber-software-engineer-technical-lead-51) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
+- [Software and Systems Engineer](https://www.motorsportjobs.com/en/job/software-and-systems-engineer) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
+- [Software Engineer](https://www.motorsportjobs.com/en/job/software-engineer-1306) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
