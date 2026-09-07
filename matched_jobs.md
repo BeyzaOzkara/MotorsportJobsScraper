@@ -129,3 +129,4 @@
 - [Senior Cyber Software Engineer Technical Lead](https://www.motorsportjobs.com/en/job/senior-cyber-software-engineer-technical-lead-51) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
 - [Software and Systems Engineer](https://www.motorsportjobs.com/en/job/software-and-systems-engineer) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
 - [Software Engineer](https://www.motorsportjobs.com/en/job/software-engineer-1306) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
+- [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-198) | Company: `Spark Racing Technology` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-07 14:52
