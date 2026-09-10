@@ -130,3 +130,11 @@
 - [Software and Systems Engineer](https://www.motorsportjobs.com/en/job/software-and-systems-engineer) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
 - [Software Engineer](https://www.motorsportjobs.com/en/job/software-engineer-1306) | Company: `Motion Applied` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-06 12:42
 - [Software Team Leader](https://www.motorsportjobs.com/en/job/software-team-leader-198) | Company: `Spark Racing Technology` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-07 14:52
+- [IT Software Student Placement](https://www.motorsportjobs.com/en/job/it-software-student-placement-0) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-10 13:22
+- [Principal Software Engineer](https://www.motorsportjobs.com/en/job/principal-software-engineer-291) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-10 13:22
+- [Senior Cyber Software Engineer Technical Lead](https://www.motorsportjobs.com/en/job/senior-cyber-software-engineer-technical-lead-56) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-10 13:22
+- [Senior Principal Software Engineer](https://www.motorsportjobs.com/en/job/senior-principal-software-engineer-24) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-10 13:22
+- [Software Engineer](https://www.motorsportjobs.com/en/job/software-engineer-1310) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-10 13:23
+- [Senior Principal Software Engineer](https://www.motorsportjobs.com/en/job/senior-principal-software-engineer-25) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-10 13:23
+- [Software Engineer](https://www.motorsportjobs.com/en/job/software-engineer-1309) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-10 13:23
+- [Rust Software Engineer](https://www.motorsportjobs.com/en/job/rust-software-engineer-3) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-09-10 13:23
