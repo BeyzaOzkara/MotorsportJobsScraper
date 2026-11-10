@@ -171,3 +171,5 @@
 - [Industrial Placement (2027-2028) - Software - Jaguar TCS Racing](https://www.motorsportjobs.com/en/job/industrial-placement-2027-2028-software-jaguar-tcs-racing) | Company: `Racecar Engineering & Build (further information supplied on a successful shortlisting)` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-10-04 14:38
 - [Senior Project Engineer (Software)](https://www.motorsportjobs.com/en/job/senior-project-engineer-software) | Company: `Purdue University` | Keywords: `software` | Eligible Sponsorship: No | Found: 2026-10-30 15:34
 - [Software Engineer](https://www.motorsportjobs.com/en/job/software-engineer-1317) | Company: `Circuito do Sol Limitada` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-11-07 15:26
+- [Intern Aero Software](https://www.motorsportjobs.com/en/job/intern-aero-software) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-11-10 16:48
+- [Senior Software Engineer](https://www.motorsportjobs.com/en/job/senior-software-engineer-796) | Company: `KCMG Europe` | Keywords: `software` | **Eligible Sponsorship: YES** | Found: 2026-11-10 16:48
